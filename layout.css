@@ -1,0 +1,23 @@
+.footer{
+  position: fixed;
+       text-align: center;
+       bottom: 0px;
+       width: 100%;
+	   color:black;
+}
+
+#slider1{
+  position: relative;
+  bottom: 200px;
+}
+
+#slider2{
+  position: relative;
+  bottom: 200px;
+  left: 400px;
+}
+
+h1 {
+  position: relative;
+  left: 30px;
+}
